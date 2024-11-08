@@ -219,7 +219,7 @@ n1:c9t
 	skos:inScheme n0:;
 	skos:notation "1";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Leben und Energie"@de;
+	skos:prefLabel "Inhaltsbereich: Leben und Energie"@de;
 	skos:narrower 
 		n1:y7p,
 		n1:c3d,
@@ -361,7 +361,7 @@ n1:y3h
 	skos:inScheme n0:;
 	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Informationsverarbeitung in Lebewesen"@de;
+	skos:prefLabel "Inhaltsbereich: Informationsverarbeitung in Lebewesen"@de;
 	skos:narrower 
 		n1:u7s,
 		n1:f5t,
@@ -538,7 +538,7 @@ n1:b5u
 	skos:inScheme n0:;
 	skos:notation "3";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Lebewesen in ihrer Umwelt"@de;
+	skos:prefLabel "Inhaltsbereich: Lebewesen in ihrer Umwelt"@de;
 	skos:narrower 
 		n1:d9s,
 		n1:v7a,
@@ -735,7 +735,7 @@ n1:p2c
 	skos:inScheme n0:;
 	skos:notation "4";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Vielfalt des Lebens"@de;
+	skos:prefLabel "Inhaltsbereich: Vielfalt des Lebens"@de;
 	skos:narrower 
 		n1:a6f,
 		n1:v2p,

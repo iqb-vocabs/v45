@@ -28,7 +28,7 @@ n1:b6a
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Biologie für die Allgemeine Hochschulreife - Anforderungsbereiche"@de;
+	dct:title "Bildungsstandards Biologie Sek II 2020 - Anforderungsbereiche"@de;
 	dct:description """Mit Blick auf die unterrichtliche Einbindung von Aufgaben werden folgende Anforderungsbereiche unterschieden:"""@de;
 	skos:hasTopConcept
 		n1:x7r,

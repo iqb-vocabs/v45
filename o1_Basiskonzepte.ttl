@@ -42,7 +42,7 @@ n1:s7s
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Biologie für die Allgemeine Hochschulreife - Basiskonzepte"@de;
+	dct:title "Bildungsstandards Biologie Sek II 2020 - Basiskonzepte"@de;
 	dct:description """Der Beschreibung von biologischen Sachverhalten liegen fachspezifische Gemeinsamkeiten zugrunde, die sich in Form von Basiskonzepten strukturieren lassen. Die Basiskonzepte im Fach Biologie ermöglichen somit die Vernetzung fachlicher Inhalte und deren Betrachtung aus verschiedenen Perspektiven. Die Basiskonzepte werden übergreifend auf alle Kompetenzbereiche bezogen. Sie können kumulatives Lernen, den Aufbau von strukturiertem Wissen und die Erschließung neuer Inhalte fördern.
 
 Lebewesen sind offene Systeme, die in stofflichen, energetischen und informatorischen Wechselwirkungen mit ihrer Umwelt stehen, zu Selbstregulation fähig sind und sich individuell und evolutiv entwickeln. Daraus werden folgende Basiskonzepte für den Biologieunterricht abgeleitet: Struktur und Funktion, Stoff- und Energieumwandlung, Information und Kommunikation, Steuerung und Regelung sowie individuelle und evolutive Entwicklung. Diese Basiskonzepte ermöglichen eine mehrperspektivische, vernetzte und vertiefte Herangehensweise an Themen und Problemstellungen des Biologieunterrichts und eine Fokussierung auf zentrale Aspekte innerhalb der Vielfalt biologischer Phänomene. Basiskonzepte lassen sich auf verschiedenen Systemebenen betrachten.

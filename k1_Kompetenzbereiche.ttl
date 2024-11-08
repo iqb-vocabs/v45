@@ -503,7 +503,7 @@ n1:d6y
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Bildungsstandards Biologie für die Allgemeine Hochschulreife - Kompetenzbereiche im Fach Biologie"@de;
+	dct:title "Bildungsstandards Biologie Sek II 2020 - Kompetenzbereiche im Fach Biologie"@de;
 	dct:description """Die Bildungsstandards für die Allgemeine Hochschulreife definieren die Kompetenzen, die Lernende bis zum Ende der Qualifikationsphase erwerben sollen. Diese werden im Unterricht sowohl auf grundlegendem als auch auf erhöhtem Anforderungsniveau entwickelt.
 
 Unterricht auf grundlegendem Anforderungsniveau repräsentiert gemäß der Vereinbarung zur Gestaltung der gymnasialen Oberstufe und der Abiturprüfung (i. d. F. vom 15.02.2018, Ziffer 3.2) „das Lernniveau der gymnasialen Oberstufe unter dem Aspekt einer wissenschaftspropädeutischen Bildung. Unterricht mit erhöhtem Anforderungsniveau repräsentiert das Lernniveau der gymnasialen Oberstufe unter dem Aspekt einer wissenschaftspropädeutischen Bildung, die exemplarisch vertieft wird.“ 
@@ -512,7 +512,7 @@ Der Unterschied in den Anforderungen der beiden Anforderungsniveaus liegt im Umf
 
 Das erhöhte Anforderungsniveau zeichnet sich durch eine Zunahme von Komplexität, Abstraktheit, Breite und Tiefe sowie Differenziertheit aus. Dies äußert sich im Biologieunterricht im Bereich der Sachkompetenz darin, dass im Vergleich zum grundlegenden Niveau zu bestimmten Themen mehr Sachverhalte in höherer Komplexität und Tiefebetrachtet werden. Im Bereich der Erkenntnisgewinnungskompetenz bedingt das erhöhte Anforderungsniveau eine höhere Komplexität der bearbeiteten Fragestellungen, ihrer Umsetzung in konkreten Denk- und Arbeitsweisen sowie eine vertiefte Reflexion des Prozesses der Erkenntnisgewinnung. Die Lernenden des erhöhten Anforderungsniveaus besitzen im Bereich der Kommunikationskompetenz ein umfangreicheres Fachvokabular und sind in der Lage, Fachtexte zu komplexeren Inhalten zu verstehen. Im Bereich der Bewertungskompetenz von naturwissenschaftlichen Sachverhalten können Lernende auf erhöhtem Anforderungsniveau komplexere Argumente mit Belegen heranziehen und damit eigene Standpunkte differenzierter begründen. 
 
-Im Folgenden werden die einzelnen Kompetenzbereiche definiert und näher beschrieben. Sie werden in Form von Standards präzisiert. Dabei gelten die formulierten Standards für beide Anforderungsniveaus. Die Inhalte, an denen die Kompetenzen erworben werden, sind im Kapitel 2.6 aufgeführt."""@de;
+Im Folgenden werden die einzelnen Kompetenzbereiche definiert und näher beschrieben. Sie werden in Form von Standards präzisiert. Dabei gelten die formulierten Standards für beide Anforderungsniveaus. Die Inhalte, an denen die Kompetenzen erworben werden, sind im Textfassung Kapitel 2.6 aufgeführt."""@de;
 	skos:hasTopConcept
 		n1:z9z,
 		n1:p3q,

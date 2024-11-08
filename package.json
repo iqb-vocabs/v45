@@ -1,7 +1,7 @@
 {
   "name": "v45",
   "version": "0.1.0",
-  "description": "Bildungsstandards Biologie für die Allgemeine Hochschulreife",
+  "description": "Bildungsstandards Biologie Sek II 2020",
   "main": "index.js",
   "scripts": {
     "run_id": "addidcsv csv",

@@ -36,8 +36,8 @@
             "value": "Basiskonzepte"
           }
         ],
-        "filenameSource": "o1_Basiskonzepte.csv",
-        "filenameTarget": "o1_Basiskonzepte.ttl",
+        "filenameSource": "b1_Basiskonzepte.csv",
+        "filenameTarget": "b1_Basiskonzepte.ttl",
         "description": [
           {
             "lang": "de",
@@ -46,15 +46,15 @@
         ]
       },
       {
-        "id": "p1",
+        "id": "i1",
         "title": [
           {
             "lang": "de",
             "value": "Inhalte"
           }
         ],
-        "filenameSource": "p1_Inhalte.csv",
-        "filenameTarget": "p1_Inhalte.ttl",
+        "filenameSource": "i1_Inhalte.csv",
+        "filenameTarget": "i1_Inhalte.ttl",
         "description": [
           {
             "lang": "de",
@@ -63,15 +63,15 @@
         ]
       },
       {
-        "id": "t1",
+        "id": "a1",
         "title": [
           {
             "lang": "de",
             "value": "Anforderungsbereiche"
           }
         ],
-        "filenameSource": "t1_Anforderungsbereiche.csv",
-        "filenameTarget": "t1_Anforderungsbereiche.ttl",
+        "filenameSource": "a1_Anforderungsbereiche.csv",
+        "filenameTarget": "a1_Anforderungsbereiche.ttl",
         "description": [
           {
             "lang": "de",
